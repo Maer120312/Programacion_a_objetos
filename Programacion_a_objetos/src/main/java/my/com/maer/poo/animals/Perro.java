@@ -1,4 +1,4 @@
-package my.com.vmbl.poo.animals;
+package my.com.maer.poo.animals;
 
 public class Perro extends Animal {
     @Override
