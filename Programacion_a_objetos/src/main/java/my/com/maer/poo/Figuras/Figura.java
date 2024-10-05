@@ -6,7 +6,7 @@ package my.com.maer.poo.Figuras;
 
 /**
  *
- * @author victor-briseno
+ * @author miguel.esparza
  */
 public interface Figura {
     int calcularArea();

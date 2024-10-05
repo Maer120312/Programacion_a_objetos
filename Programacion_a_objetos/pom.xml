@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>22</maven.compiler.source>
         <maven.compiler.target>22</maven.compiler.target>
-        <exec.mainClass>import my.com.vmbl.poo.Programacion_a_objetos.Programacion_a_objetos</exec.mainClass>
+        <exec.mainClass>import my.com.maer.poo.Programacion_a_objetos.Programacion_a_objetos</exec.mainClass>
     </properties>
 </project>
