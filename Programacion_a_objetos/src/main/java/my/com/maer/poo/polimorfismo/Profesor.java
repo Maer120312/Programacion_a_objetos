@@ -9,10 +9,19 @@ public class Profesor extends AsistenteClase{
 
     String nombre;
     String correo;
+    private String contraseña;
+    
+    public Profesor(String miguel_Esparza){}
     
     public Profesor(String nombre, String correo){
             this.nombre = nombre;
             this.correo = correo;
+    }
+    public Profesor(String nombre, String correo, String contraseña){
+            this.nombre = nombre;
+            this.correo = correo;
+            this.contraseña = contraseña;
+            this.id = id;
     }
     
     @Override
