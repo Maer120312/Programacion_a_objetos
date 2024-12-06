@@ -15,6 +15,8 @@ import my.com.maer.poo.patrones_diseño_decorator.Tarea;
 import my.com.maer.poo.patrones_diseño_observer.Manager;
 import my.com.maer.poo.patrones_diseño_observer.Usuario;
 import my.com.maer.poo.patrones_diseño_observer.Subscriptor;
+import my.com.maer.poo.Tercer_parcial.Sumar;
+import mx.com.vafis.poo.tercerparcial.proyectofinal.Memorama;
 
 
 
