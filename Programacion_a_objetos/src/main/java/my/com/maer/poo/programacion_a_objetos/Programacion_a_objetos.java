@@ -16,7 +16,7 @@ import my.com.maer.poo.patrones_diseño_observer.Manager;
 import my.com.maer.poo.patrones_diseño_observer.Usuario;
 import my.com.maer.poo.patrones_diseño_observer.Subscriptor;
 import my.com.maer.poo.Tercer_parcial.Sumar;
-import mx.com.vafis.poo.tercerparcial.proyectofinal.Memorama;
+import my.com.maer.poo.proyecto_final.Memorama;
 
 
 
@@ -28,6 +28,12 @@ public class Programacion_a_objetos {
 
     public static void main(String[] args) 
     {
+        Memorama memorama = new Memorama();        
+        System.exit(0);
+        
+        Sumar sumar = new Sumar();
+        
+        System.exit(0);
         
                 Manager manager = new Manager();
         
